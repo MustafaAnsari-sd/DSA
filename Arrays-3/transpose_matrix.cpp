@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-#include<vector>class Solution {
+#include<vector>
+class Solution {
 public:
     vector<vector<int>> transpose(vector<vector<int>>& matrix) {
         int m= matrix.size();
